@@ -4,7 +4,7 @@ A computational method that directly simulates non-equilibrium electron dynamics
 
 This code is developed in conjunction with the theoretical work described in:
 
-Yehorova, D., & Kretchmer, J. S. (2022). A multi-fragment real-time extension of projected density matrix embedding theory: Non-equilibrium electron dynamics in extended systems. arXiv preprint arXiv:2209.06368.
+Dariia Yehorova, Joshua S. Kretchmer; A multi-fragment real-time extension of projected density matrix embedding theory: Non-equilibrium electron dynamics in extended systems. J. Chem. Phys. 7 April 2023; 158 (13): 131102. https://doi.org/10.1063/5.0146973
 ![](https://github.com/DYehorova/real_time_pDMET/blob/main/elec_density_2D.gif)
 
 # Installation and Use 
